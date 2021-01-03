@@ -14,7 +14,8 @@
   "license": "ISC",
   "devDependencies": {
     "chalk": "^4.1.0",
-    "commander": "^6.2.1"
+    "commander": "^6.2.1",
+    "ora": "^5.2.0"
   },
   "dependencies": {
     "enquirer": "^2.3.6",

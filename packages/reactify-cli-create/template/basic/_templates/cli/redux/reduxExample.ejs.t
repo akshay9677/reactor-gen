@@ -1,5 +1,5 @@
 ---
-to: src/component/Like.js
+to: src/components/Like.js
 ---
 
 import React from "react";
