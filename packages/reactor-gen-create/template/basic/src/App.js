@@ -17,7 +17,17 @@ function App() {
           >
             React
           </a>{" "}
-          documentation for editing your project
+          documentation for editing your project <br />
+          Check out my
+          <a
+            className="App-link"
+            href="https://github.com/akshay9677"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {" "}
+            work
+          </a>{" "}
         </p>
       </header>
     </div>

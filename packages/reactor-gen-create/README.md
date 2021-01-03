@@ -9,6 +9,9 @@ Reactor gen is a react template generator with a interactive UI
 
 #### Installing the package
 
+![a](/assets/InstallOptions.png)
+![a](/assets/installing.png)
+
 Run the following commad to install reactor-gen globally (node js version higher than 10 required)
 
 `npm i -g reactor-gen`

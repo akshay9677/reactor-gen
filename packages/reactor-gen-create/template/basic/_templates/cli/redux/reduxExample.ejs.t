@@ -14,16 +14,22 @@ function Like() {
     dispatch(likeActions.addLike());
   };
   return (
-    <button style={{ fontSize: "20px" }} onClick={handleLikeClick}>
-          {likes}{" "}
-          
-          Likes
-      <i
-        style={{ padding: "0px 2px 0px 5px", marginBottom: "1px",color:'#7754BC' }}
-        className="fas fa-thumbs-up"
-          ></i>
-    </button>
+    <div>
+      Redux Example:{" "}
+      <button style={{ fontSize: "20px" }} onClick={handleLikeClick}>
+        {likes} Likes
+        <i
+          style={{
+            padding: "0px 2px 0px 5px",
+            marginBottom: "1px",
+            color: "#7754BC",
+          }}
+          className="fas fa-thumbs-up"
+        ></i>
+      </button>
+    </div>
   );
 }
 
 export default Like;
+
