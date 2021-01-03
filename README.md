@@ -2,7 +2,7 @@
 
 Reactor gen is a react template generator with a interactive UI
 
-### Currently available plugins and boiler plate generator
+### Available packages for generating boiler plate code
 
 1. Redux
 2. React Router DOM
