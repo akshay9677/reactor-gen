@@ -17,7 +17,9 @@ const options = [
 
 const prompt = new MultiSelect({
   name: "plugins",
-  message: "Select features required for your project",
+  message: `Select features required for your project (${chalk.blue(
+    "space"
+  )} to select and ${chalk.blue("arrow keys")} to navigate)`,
   choices: options,
 });
 
