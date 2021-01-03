@@ -1,5 +1,5 @@
 {
-  "name": "reactify-cli",
+  "name": "reactor-gen",
   "version": "1.0.0",
   "description": "React template generator",
   "main": "index.js",

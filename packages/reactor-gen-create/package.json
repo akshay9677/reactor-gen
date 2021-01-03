@@ -4,7 +4,7 @@
   "description": "React template generator cli for plugins like redux, router etc.",
   "main": "index.js",
   "bin": {
-    "reactify-cli-create": "./index.js"
+    "reactor-gen": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
