@@ -12,7 +12,7 @@
   "keywords": [],
   "author": "Akshay K",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^4.1.0",
     "cli-spinner": "^0.2.10",
     "commander": "^6.2.1",
